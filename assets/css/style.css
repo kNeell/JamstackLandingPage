@@ -203,7 +203,7 @@ h6 {
   .seprator span {
     display: block; }
     .seprator span.seprator-sm {
-      background: #ffdf2b none repeat scroll 0 0;
+      background: #fde1e9 none repeat scroll 0 0;
       display: block;
       height: 5px;
       width: 54px; }
@@ -235,13 +235,13 @@ h6 {
     vertical-align: middle; }
 
 .sec-head {
-  background: #ffdd00 none repeat scroll 0 0;
+  background: #ffc0cb none repeat scroll 0 0;
   overflow: hidden;
   position: relative; }
   .sec-head h4 {
     color: #2e2e2e; }
   .sec-head .slanted-head {
-    background: #ffea00;
+    background: #fde1e9;
     height: 2000px;
     left: 0;
     position: absolute;
@@ -320,11 +320,11 @@ h6 {
 
 /* Button 3 */
 .btn-3 {
-  background: #ffea01;
-  color: #272727;
+  background: #d56a7d;
+  color: #fde1e9;
   margin-top: 50px; }
   .btn-3:hover {
-    background: #ffea01; }
+    background: #ffc0cb; }
   .btn-3:active {
     background: #ffea01; }
   .btn-3:before {
@@ -346,7 +346,7 @@ h6 {
   .btn-3e:after {
     width: 46%;
     height: 200%;
-    background: #ffdd00;
+    background: #fde1e9;
     z-index: 1;
     right: 0;
     top: 0;
@@ -1129,7 +1129,7 @@ p, .expertises-sec .service-info-text p {
     overflow: hidden;
     background: #fff; }
     .p-table-item .p-table-wrap.highlighted {
-      background: #2e2e2e; }
+      background: #d56a7d; }
       .p-table-item .p-table-wrap.highlighted sup {
         color: #fff !important; }
       .p-table-item .p-table-wrap.highlighted .p-table-icon,
@@ -1232,7 +1232,7 @@ p, .expertises-sec .service-info-text p {
     vertical-align: middle;
     width: 40px;
     cursor: pointer;
-    background: #ffdf2b;
+    background: #d3c4eb;
     -moz-transition: 0.3s all ease-in-out;
     -o-transition: 0.3s all ease-in-out;
     -webkit-transition: 0.3s all ease-in-out;
@@ -1393,7 +1393,7 @@ p, .expertises-sec .service-info-text p {
 /** CONTACT FORM SEC **/
 /****************************/
 .contact-sec .form-control {
-  background: #f4f4f4;
+  background: #ffc0cb;
   border-color: transparent;
   box-shadow: none;
   color: #272727;
@@ -1412,7 +1412,7 @@ p, .expertises-sec .service-info-text p {
   .contact-sec .form-control:focus {
     border-color: #ffdd00; }
   .contact-sec .form-control::-webkit-input-placeholder {
-    color: #8c8c8c;
+    color: #000;
     font-size: 14px;
     font-weight: 600;
     text-transform: capitalize; }
@@ -1490,7 +1490,7 @@ p, .expertises-sec .service-info-text p {
     .footer-sec .copyright p {
       font-size: 12px;
       display: inline-block;
-      color: #414141; }
+      color: #904c63; }
   .footer-sec .gototop {
     bottom: 20px;
     position: absolute;
@@ -1504,7 +1504,7 @@ p, .expertises-sec .service-info-text p {
       transform: rotate(-45deg);
       width: 56px; }
     .footer-sec .gototop .btn-3 {
-      background: #272727 none repeat scroll 0 0;
+      background: #904c63 none repeat scroll 0 0;
       color: #fff;
       width: 50px;
       height: 50px;
@@ -1514,7 +1514,7 @@ p, .expertises-sec .service-info-text p {
       left: 0;
       right: 0; }
     .footer-sec .gototop .btn-3:hover {
-      background: #2e2e2e none repeat scroll 0 0;
+      background: #904c63 none repeat scroll 0 0;
       color: #fff; }
     .footer-sec .gototop .btn-3e:hover::after {
       width: 50px; }
