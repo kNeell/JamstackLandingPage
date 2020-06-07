@@ -210,8 +210,8 @@ h6 {
 	padding-bottom:90px;
 }
 .padding-sec-xs {
-	padding-top:70px;
-	padding-bottom:70px;
+	padding-top:10px;
+	padding-bottom:40px;
 }
 .padding-top-lg {
 	padding-top:150px;
@@ -782,12 +782,12 @@ p {
 	font-size:14px;
 	font-family:$p_font;
 	line-height:25px;
-	color:#949494;
+	color:#fff;
 	
 	&.lead {
 		font-size:16px;
 		line-height:32px;
-		color:#272727;
+		color:#fff;
 		font-weight:600;
 		margin-bottom: 31px;
 	}
@@ -797,7 +797,7 @@ p {
 		color:#fff;
 	}
 	i {
-		color: #a8a8a8;
+		color: #fff;
 		display: block;
 		font-size: 45px;
 		padding-bottom: 31px;
